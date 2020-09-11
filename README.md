@@ -10,5 +10,5 @@ This is a Javascript web quote generator. The purpose of this app is to test my 
 ## What I learned
 
 * How to use React components.  
-* How to follow facebook React documentation.
+* How to follow React documentation.
 * Learn about playing audio.
